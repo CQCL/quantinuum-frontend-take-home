@@ -8,7 +8,6 @@
     "moduleResolution": "node",
     "skipLibCheck": true,
     "allowJs": false,
-    /* Bundler mode */
     "allowImportingTsExtensions": true,
     "resolveJsonModule": true,
     "isolatedModules": true,
