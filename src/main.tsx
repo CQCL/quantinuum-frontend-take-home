@@ -1,7 +1,6 @@
 
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-// @ts-expect-error
 import {Button, Input, Switch} from '@cqcl/quantinuum-ui'
 import '@cqcl/quantinuum-ui/tokens.css'
 import './main.css'
