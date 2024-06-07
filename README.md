@@ -6,9 +6,7 @@
 
 ## Problem Statement
 
-A customer (non-expert) is a keen player of competitive pokemon and would like a browser based tool to assist in building a team.
-
-The web form should allow the user to:
+A customer (non-expert) is a keen player of competitive pokemon and would like a browser based tool to assist in building a team. The web form should allow the user to:
 - Search for a pokemon by name.
 - Show that pokemon’s weaknesses.
 - Show which moves deal double damage to that pokemon.
