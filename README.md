@@ -6,13 +6,13 @@
 
 ## Problem Statement
 
-A customer (non-expert) is a keen player of competitive pokemon and would like a browser based tool to assist in building a team. The web form should allow the user to:
-- Search for a pokemon by name.
-- Show that pokemon’s weaknesses.
-- Show which moves deal double damage to that pokemon.
-- Let the user find which pokemon can learn those moves.
+Cat Viewer
 
-The client has not specified where the information should come from, but there are public APIs such as PokeAPI (https://pokeapi.co/docs/v2), which can be used to obtain the necessary information. As a large amount of data may end up being queried, some attention should be given to avoiding excessive data fetching.
+A customer is a keen connoisseur of cat photographs and wants to have a web interface to be able to explore a range of cat photographs on the internet.
+
+The customer has requested a web client that allows them to browse the CATAAS (Cat as a service) API for pictures with a particular tag. They would like to be able to see the available tags provided by the API, such as cats with "hats" or "cute" cats and then be able to view all cats that have those tags on a single page. They would then like to be able to select one of the cats and add some text to the photograph using the API. Even if the user refreshes the page the custom image text should persist.
+
+Using the project skeleton provided, write a browser application that provides the requested functionality. You may use any typescript libraries you feel appropriate.
 
 
 
