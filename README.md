@@ -14,6 +14,15 @@ The customer has requested a web client that allows them to browse the [CATAAS (
 
 Using the project skeleton provided, write a browser application that provides the requested functionality. You may use any typescript libraries you feel appropriate.
 
+## Getting Started
+
+This project is scaffolded with [Vite](https://vitejs.dev/).
+
+```bash
+npm run dev # Starts vite dev server.
+npm run build # Builds production app.
+```
+
 
 
 
